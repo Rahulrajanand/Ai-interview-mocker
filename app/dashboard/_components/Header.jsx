@@ -39,6 +39,7 @@ function Header() {
             cursor-pointer
             ${path=='/dashboard/how'&&'text-primary font-bold'}
             `}>How it Works?</li>
+
         </ul>
         <UserButton/>
     </div>
@@ -46,6 +47,7 @@ function Header() {
 }
 
 export default Header
+
 
 
 // function Header() {
